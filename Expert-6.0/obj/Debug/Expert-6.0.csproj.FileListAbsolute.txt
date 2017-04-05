@@ -1,0 +1,100 @@
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\bin\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\bin\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert-6.0.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\bin\Debug\Expert.exe
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\bin\Debug\Expert.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\bin\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\bin\Debug\Canvas_Lib.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert.Form1.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert-6.0.csproj.GenerateResource.Cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert.exe
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert.Splash.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert-6.0\obj\Debug\Expert.AKK.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\bin\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\bin\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\obj\Debug\Expert.AKK.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\obj\Debug\Expert.Splash.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\obj\Debug\Expert-6.0.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.exe
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\bin\Debug\Expert.exe
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\bin\Debug\Expert.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\bin\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\bin\Debug\Canvas_Lib.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.AKK.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.Form1.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.Splash.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert-6.0.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\bin\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\bin\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.AKK.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.Splash.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert-6.0.csproj.GenerateResource.Cache
+D:\Expert-6.ex\Expert-6.0\obj\Debug\Expert.exe
+D:\Expert-6.ex\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\obj\Debug\Expert.exe
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\obj\Debug\Expert.AKK.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\obj\Debug\Expert.Form1.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\obj\Debug\Expert.Splash.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\obj\Debug\Expert-6.0.csproj.GenerateResource.Cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\bin\Debug\Expert.exe
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\bin\Debug\Expert.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\bin\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\Expert-6.0\bin\Debug\Canvas_Lib.pdb
+C:\Users\Adura\Documents\Visual Studio 2013\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.exe
+C:\Users\Adura\Documents\Visual Studio 2013\Projects\Expert-6.ex\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\z3337112\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\obj\Debug\Expert.exe
+C:\Users\z3337112\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\bin\Debug\Expert.exe
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\bin\Debug\Expert.pdb
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\bin\Debug\Canvas_Lib.dll
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\bin\Debug\Canvas_Lib.pdb
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\obj\Debug\Expert.AKK.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\obj\Debug\Expert.Form1.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\obj\Debug\Expert.Splash.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\obj\Debug\Expert-6.0.csproj.GenerateResource.Cache
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\obj\Debug\Expert.exe
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\obj\Debug\Expert.exe
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\obj\Debug\Expert.pdb
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\obj\Debug\Expert.AKK.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\obj\Debug\Expert.Form1.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\obj\Debug\Expert.Splash.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\obj\Debug\Expert-6.0.csproj.GenerateResource.Cache
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\bin\Debug\Expert.exe
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\bin\Debug\Expert.pdb
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\bin\Debug\Canvas_Lib.dll
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\Expert-6.0\bin\Debug\Canvas_Lib.pdb

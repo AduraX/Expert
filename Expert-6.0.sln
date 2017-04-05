@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expert-6.0", "Expert-6.0\Expert-6.0.csproj", "{6B57D680-D504-4EE2-9B06-30822423C466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdureX_Lib", "AdureX_Lib\AdureX_Lib.csproj", "{5DCAAD80-3AAF-4B31-B62E-81778EE3BD91}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Expert_Setup", "Expert_Setup\Expert_Setup.vdproj", "{7DCE44C6-595B-4EE7-80E1-E1BDC43CC01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B57D680-D504-4EE2-9B06-30822423C466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B57D680-D504-4EE2-9B06-30822423C466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B57D680-D504-4EE2-9B06-30822423C466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B57D680-D504-4EE2-9B06-30822423C466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DCAAD80-3AAF-4B31-B62E-81778EE3BD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCAAD80-3AAF-4B31-B62E-81778EE3BD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCAAD80-3AAF-4B31-B62E-81778EE3BD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCAAD80-3AAF-4B31-B62E-81778EE3BD91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCE44C6-595B-4EE7-80E1-E1BDC43CC01A}.Debug|Any CPU.ActiveCfg = Debug
+		{7DCE44C6-595B-4EE7-80E1-E1BDC43CC01A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

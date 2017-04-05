@@ -1,0 +1,19 @@
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Canvas_Lib\bin\Debug\Canvas_Lib.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Canvas_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Canvas_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Canvas_Lib\obj\Debug\Canvas_Lib.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Canvas_Lib\obj\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.Canvas.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.Canvas.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.csproj.GenerateResource.Cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.pdb

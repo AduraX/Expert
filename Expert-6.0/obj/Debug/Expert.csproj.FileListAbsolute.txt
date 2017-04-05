@@ -1,0 +1,168 @@
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert\Expert\bin\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert\Expert\bin\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert\Expert\obj\Debug\Expert.Form1.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert\Expert\obj\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert\Expert\obj\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert\Expert\obj\Debug\Expert.Splash.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert\Expert\bin\Debug\Aga.Controls.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.pdb
+C:\Users\AduraFimihan\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.exe
+C:\Users\AduraFimihan\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.pdb
+C:\Users\AduraFimihan\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\bin\Debug\Expert.exe
+C:\Users\AduraFimihan\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\bin\Debug\Expert.pdb
+C:\Users\AduraFimihan\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AduraFimihan\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.Form1.resources
+C:\Users\AduraFimihan\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\AduraFimihan\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.Splash.resources
+C:\Users\AduraFimihan\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.Splash.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\bin\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\bin\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\bin\Debug\Aga.Controls.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.Form1.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.Splash.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.Splash.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new1\Expert\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new1\Expert\obj\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new1\Expert\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new1\Expert\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new1\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new1\Expert\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new1\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert V-1-new1\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert x new\Expert\obj\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert x new\Expert\obj\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert x new\Expert\bin\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert x new\Expert\bin\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert x new\Expert\bin\Debug\Aga.Controls.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert x new\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert x new\Expert\obj\Debug\Expert.Form1.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert x new\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert x new\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2\Expert\obj\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2\Expert\obj\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2\Expert\obj\Debug\Expert.Form1.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2\Expert\bin\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2\Expert\bin\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2\Expert\bin\Debug\Aga.Controls.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2n1\Expert\obj\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2n1\Expert\obj\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2n1\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2n1\Expert\obj\Debug\Expert.Form1.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2n1\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2n1\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2n1\Expert\bin\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2n1\Expert\bin\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert  V2n1\Expert\bin\Debug\Aga.Controls.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3\Expert\bin\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3\Expert\bin\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3\Expert\bin\Debug\Aga.Controls.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\Expert.Form1.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3\Expert\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3\Expert\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing\Expert\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing\Expert\obj\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing\Expert\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing\Expert\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing\Expert\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-2\Expert\obj\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-2\Expert\obj\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-2\Expert\bin\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-2\Expert\bin\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-2\Expert\bin\Debug\Aga.Controls.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-2\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-2\Expert\obj\Debug\Expert.Form1.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-2\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-2\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\bin\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\bin\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\bin\Debug\Aga.Controls.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\Expert.Form1.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V3-Smoothing-3\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V4\Expert\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V4\Expert\obj\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V4\Expert\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V4\Expert\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V4\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V4\Expert\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V4\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V4\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.Form1.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\bin\Debug\Expert.exe
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\bin\Debug\Expert.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\bin\Debug\CanvasLib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\bin\Debug\CanvasLib.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\bin\Debug\Aga.Controls.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.Form1.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.Properties.Resources.resources
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\bin\Debug\Expert.exe
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\bin\Debug\Expert.pdb
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\bin\Debug\Canvas_Lib.dll
+C:\Documents and Settings\z3337112\My Documents\Visual Studio 2008\Projects\Expert-V5\Expert\bin\Debug\Canvas_Lib.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.exe
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-V5\Expert\obj\Debug\Expert.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert\obj\Debug\Expert.exe
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Expert\obj\Debug\Expert.pdb

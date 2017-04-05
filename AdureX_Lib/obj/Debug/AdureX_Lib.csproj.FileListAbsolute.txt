@@ -1,0 +1,72 @@
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\AdureX_Lib.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\AdureX_Lib.Canvas.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\AdureX_Lib.NumTextBox.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\AdureX_Lib.Canvas.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\AdureX_Lib.NumTextBox.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\AdureX_Lib.csproj.GenerateResource.Cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.0\Canvas_Lib\obj\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\AdureX_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\AdureX_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\AdureX_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\AdureX_Lib\obj\Debug\AdureX_Lib.Canvas.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\AdureX_Lib\obj\Debug\AdureX_Lib.NumTextBox.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\AdureX_Lib\obj\Debug\AdureX_Lib.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\AdureX_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.0\AdureX_Lib\obj\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\AdureX_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\AdureX_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\AdureX_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\AdureX_Lib\obj\Debug\AdureX_Lib.Canvas.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\AdureX_Lib\obj\Debug\AdureX_Lib.NumTextBox.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\AdureX_Lib\obj\Debug\AdureX_Lib.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\AdureX_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.02\AdureX_Lib\obj\Debug\Canvas_Lib.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\AdureX_Lib.Canvas.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\AdureX_Lib.NumTextBox.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\AdureX_Lib.csproj.GenerateResource.Cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\AdureX_Lib.Canvas.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\AdureX_Lib.NumTextBox.resources
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\AdureX_Lib.csproj.GenerateResource.Cache
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\Abiona\Documents\Visual Studio 2008\Projects\Expert-6.ex\AdureX_Lib\obj\Debug\Canvas_Lib.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\AdureX_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\AdureX_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\AdureX_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\AdureX_Lib\obj\Debug\AdureX_Lib.Canvas.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\AdureX_Lib\obj\Debug\AdureX_Lib.NumTextBox.resources
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\AdureX_Lib\obj\Debug\AdureX_Lib.csproj.GenerateResource.Cache
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\AdureX_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\z3337112\Documents\Visual Studio 2008\Projects\Expert-6.ex2\AdureX_Lib\obj\Debug\Canvas_Lib.pdb
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\AdureX_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\AdureX_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\AdureX_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\AdureX_Lib\obj\Debug\AdureX_Lib.Canvas.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\AdureX_Lib\obj\Debug\AdureX_Lib.NumTextBox.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\AdureX_Lib\obj\Debug\AdureX_Lib.csproj.GenerateResource.Cache
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\AdureX_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-6.ex\AdureX_Lib\obj\Debug\Canvas_Lib.pdb
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\AdureX_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\AdureX_Lib\obj\Debug\AdureX_Lib.Canvas.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\AdureX_Lib\obj\Debug\AdureX_Lib.NumTextBox.resources
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\AdureX_Lib\obj\Debug\AdureX_Lib.csproj.GenerateResource.Cache
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\AdureX_Lib\obj\Debug\Canvas_Lib.dll
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\AdureX_Lib\bin\Debug\Canvas_Lib.dll
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\AdureX_Lib\bin\Debug\Canvas_Lib.pdb
+C:\Users\Adura\Google Drive\Projects\SosiDB-Folder\Expert-7.0\AdureX_Lib\obj\Debug\Canvas_Lib.pdb
